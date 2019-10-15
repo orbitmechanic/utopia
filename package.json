@@ -1,0 +1,26 @@
+{
+  "name": "utopia",
+  "version": "0.1.0",
+  "description": "An ecosystem of trading bot strategies",
+  "main": "utopia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitmechanic/utopia.git"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "strategy",
+    "genetic",
+    "cryptocurrency"
+  ],
+  "author": "orbitmechanic@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbitmechanic/utopia/issues"
+  },
+  "homepage": "https://github.com/orbitmechanic/utopia#readme"
+}
