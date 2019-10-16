@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/orbitmechanic/utopia/issues"
   },
-  "homepage": "https://github.com/orbitmechanic/utopia#readme"
+  "homepage": "https://github.com/orbitmechanic/utopia#readme",
+  "dependencies": {
+    "gemini-api": "^2.0.4"
+  }
 }
