@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/orbitmechanic/utopia#readme",
   "dependencies": {
-    "gemini-api": "^2.0.4"
+    "cryptocompare": "^1.0.0",
+    "gemini-api": "^2.0.4",
+    "node-fetch": "^2.6.0",
+    "yarn": "^1.19.1"
   }
 }
