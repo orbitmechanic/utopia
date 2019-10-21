@@ -20,3 +20,6 @@ CryptoCompareAPI.coinList()
 .then(coinList => {
     console.log(coinList)
 })
+
+// Get all symbols
+restClient.getAllSymbols().then(response => console.log(response));
